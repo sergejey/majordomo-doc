@@ -6,7 +6,7 @@ weight: 20
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This is a placeholder page that shows you how to use this template site. Test.
 {{% /pageinfo %}}
 
 This section is where the user documentation for your project lives - all the
