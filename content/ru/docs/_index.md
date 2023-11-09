@@ -5,25 +5,12 @@ menu: {main: {weight: 20}}
 weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site. Test.
-{{% /pageinfo %}}
+Добро пожаловать на сайт документации к проекту MajorDoMo.
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+Надеемся, здесь вы найдёте много полезной информации, которая поможет вам в настройке и использованию многих возможностей системы.
+Данный сайт всегда будет находиться в процессе развития, поэтому не огорчайтесь, если вы не найдёте необходимую информацию или
+даже пустые страницы -- вероятно, информация будет добавлена чуть позже, или же вы сами можете помочь с развитием сайта
+предложив своё изменение или дополнение через отправку доработок с помощью системы контроля версий GitHub -- в правой части
+сайта вы можете видеть ссылки на соответствующий функционал.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
-
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Ещё раз добро пожаловать и приятного погружения в увлекательный мир Умного Дома!
