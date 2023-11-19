@@ -19,3 +19,6 @@ weight: 60
 {{% /alert %}}
 
 [**Подключить сервис**](https://connect.smartliving.ru/services/s2.html)
+
+После создания аккаунта в сервисе CONNECT, необходимо прописать его в систему MajorDoMo через раздел
+**Cистема / CONNECT**.
