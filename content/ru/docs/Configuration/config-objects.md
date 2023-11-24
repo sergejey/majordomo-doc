@@ -143,20 +143,26 @@ tempSensors <|-- sensorKitchen
 
 **Дерево классов/объектов**
 
-(содержимое необходимо доработать)
+![Дерево классов/объектов](/docs/configuration/config-objects-1.png)
 
 **Описание класса**
 
-(содержимое необходимо доработать)
+![](/docs/configuration/config-objects-2.png)
 
 **Свойства класса и их параметры**
 
-(содержимое необходимо доработать)
+![](/docs/configuration/config-objects-3.png)
+
+![](/docs/configuration/config-objects-4.png)
 
 **Методы класса**
 
-(содержимое необходимо доработать)
+![](/docs/configuration/config-objects-5.png)
 
 **Объекты класса**
 
-(содержимое необходимо доработать)
+![](/docs/configuration/config-objects-6.png)
+
+![](/docs/configuration/config-objects-7.png)
+
+![](/docs/configuration/config-objects-8.png)
