@@ -73,22 +73,43 @@ weight: 20
 ## Пример настройки
 
 ### Список устройств
-(изображение)
+
+![](../config-devices-list.png)
 
 ### Общая информация
-(изображение)
+
+![](../config-devices-general-info.png)
 
 ### Настройки устройства
-(изображение)
+
+![](../config-devices-settings.png)
 
 ### Связанные устройства
-(изображение)
+
+Добавление связи:
+
+![](../config-devices-linked.png)
+
+Детали связи:
+
+![](../config-devices-linked-details.png)
 
 ### Расписание
-(изображение)
+
+![](../config-devices-schedule.png)
 
 ### Действия
-(изображение)
+
+![](../config-devices-action.png)
 
 ### Интерфейс
-(изображение)
+
+![](../config-devices-ui.png)
+
+Предустановленный интерфейс управления устройствами:
+
+![](../config-devices-ui-page.png)
+
+Вариант размещения устройств на [сцене]({{<ref "/docs/Configuration/UI/config-scenes">}}):
+
+![](../config-devices-ui-scene.png)
